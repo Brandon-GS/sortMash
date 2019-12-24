@@ -1,4 +1,4 @@
-#Sortmash
+# Sortmash
 
 ¡Bienvenido a Sortmash! Crée esta aplicación porque quería ver los diferentes algoritmos de ordenamiento graficamente. Puedes acceder a ella desde aquí: https://brandon-gs.github.io/sortmash/
 
@@ -6,11 +6,11 @@ Welcome to SortMash! I built this application because I wanted to see the sortin
 
 ### Algoritmos incluidos | Algorithms included
 
--Hope Sort
--Merge Sort
--Quick Sort
--Cocktail Sort
--Bubble Sort
+* Hope Sort
+* Merge Sort
+* Quick Sort
+* Cocktail Sort
+* Bubble Sort
 
 <img src="https://github.com/brandon-gs/sortmash/blob/master/docs/first.JPG" />
 
