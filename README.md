@@ -21,4 +21,5 @@ Welcome to SortMash! I built this application because I wanted to see the sortin
 <img src="https://github.com/brandon-gs/sortmash/blob/master/docs/cuarter.JPG" />
 
 ¡Disfrútala!
+
 Enjoy it!
